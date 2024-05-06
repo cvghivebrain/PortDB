@@ -15,3 +15,6 @@
 | <img src="USB/usbminib.jpg" width="200"> | <img src="USB/usbminib_c.jpg" width="200"> | USB 2.0 Mini-B | 6.8×3mm<br>5 pins | 2001 | Various peripherals, cameras, phones.
 | <img src="USB/usbminiab.jpg" width="200"> |  | USB 2.0 Mini-AB | 6.8×3mm<br>5 pins | 2001 | Compatible with Mini-A and Mini-B connectors.
 | <img src="USB/emu.jpg" width="200"> |  | Enhanced Mini USB | 6.8×?mm<br>10 pins | 2003 | Some Motorola phones. Similar to USB Mini with 5 additional pins for charging and audio.
+|  | <img src="USB/usbmicroa_c.jpg" width="200"> | USB 2.0 Micro-A | 6.8×1.8mm<br>5 pins | 2007 | Various peripherals, cameras, phones.
+| <img src="USB/usbmicrob.jpg" width="200"> | <img src="USB/usbmicrob_c.jpg" width="200"> | USB 2.0 Micro-B | 6.8×1.8mm<br>5 pins | 2007 | Various peripherals, cameras, phones.
+| <img src="USB/usbmicroab.jpg" width="200"> |  | USB 2.0 Micro-AB | 6.8×1.8mm<br>5 pins | 2007 | Compatible with Micro-A and Micro-B connectors.
