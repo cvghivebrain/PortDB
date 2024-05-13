@@ -23,8 +23,8 @@
 |  |  | USB 3.0 Micro-AB | 12.2×1.8mm<br>10 pins | 2008 | Compatible with Micro-A and Micro-B connectors.
 | <img src="USB/usb3c.jpg" width="200"> | <img src="USB/usb3c_c.jpg" width="200"> | USB 3.0 Type-C | 8.3×2.6mm<br>24 pins | 2014 | Phones, tablets, laptops.<br>Reversible.
 | <img src="USB/usb4c.jpg" width="200"><br><img src="USB/usb4c40.jpg" width="200"> |  | USB 4.0 Type-C | 8.3×2.6mm<br>24 pins | 2019 | Phones, tablets, laptops.<br>Reversible. 20-120 Gb/s.
-| <img src="USB/usb2int9.jpg" width="200"> | <img src="USB/usb2int9_c.jpg" width="200"> | USB 2.0 Header | ?mm<br>9 pins | 2000 | Various peripherals.<br>Usually black.
-|  | <img src="USB/usb2int5_c.jpg" width="200"> | USB 2.0 5-pin Header | ?mm<br>5 pins | 2000 | Various peripherals. Plugs into 9-pin header.<br>Usually black.
-|  | <img src="USB/usb2int4_c.jpg" width="200"> | USB 2.0 4-pin Header | ?mm<br>4 pins | 2000 | Various peripherals. Plugs into 9-pin header.<br>Usually black.
-| <img src="USB/usb3int.jpg" width="200"> | <img src="USB/usb3int_c.jpg" width="200"> | USB 3.0 Header | 20.8×5.4mm<br>19 pins | 2008 | Various peripherals.<br>Usually blue or black.
-| <img src="USB/usb31int.jpg" width="200"> | <img src="USB/usb31int_c.jpg" width="200"> | USB 3.1 Header Type-E | 11×4mm<br>20 pins | 2014 | Various peripherals.
+| <img src="USB/usb2int9.jpg" width="200"> | <img src="USB/usb2int9_c.jpg" width="200"> | USB 2.0 Header | ?mm<br>9 pins | 2000 | Add USB ports to PC case.<br>Usually black. Port is sometimes white, yellow or blue.
+|  | <img src="USB/usb2int5_c.jpg" width="200"> | USB 2.0 Header (5-pin) | ?mm<br>5 pins | 2000 | Plugs into 9-pin header.<br>Usually black.
+|  | <img src="USB/usb2int4_c.jpg" width="200"> | USB 2.0 Header (4-pin) | ?mm<br>4 pins | 2000 | Plugs into 9-pin header.<br>Usually black.
+| <img src="USB/usb3int.jpg" width="200"> | <img src="USB/usb3int_c.jpg" width="200"> | USB 3.0 Header | 20.8×5.4mm<br>19 pins | 2008 | Add USB ports to PC case.<br>Usually blue or black.
+| <img src="USB/usb31int.jpg" width="200"> | <img src="USB/usb31int_c.jpg" width="200"> | USB 3.1 Header Type-E | 11×4mm<br>20 pins | 2014 | Add USB ports to PC case.
