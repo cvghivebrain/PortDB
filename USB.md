@@ -1,6 +1,6 @@
 | Port | Cable | Name | Size | Year | Device | Usage | Notes
 |:----:|:-----:|------|------|------|--------|-------|------
-|  |  | USB 1.0/1.1 Type-A | 14×6.5mm<br>4 pins | 1996 | Various peripherals.<br>Always white. 1.5-12 Mb/s.
+|  |  | USB 1.0/1.1 Type-A | 14×6.5mm<br>4 pins | 1996 | PCs. | | Always white. 1.5-12 Mb/s.
 | <img src="USB/usb2.jpg" width="200"> | <img src="USB/usb2_c.jpg" width="200"> | USB 2.0 Type-A | 14×6.5mm<br>4 pins | 2000 | PCs. | | Usually white or black. 480 Mb/s.
 | <img src="USB/usb3.jpg" width="200"> | <img src="USB/usb3_c.jpg" width="200"> | USB 3.0 Type-A | 14×6.5mm<br>9 pins | 2008 | PCs. | | Usually blue. 5 Gb/s.<br>Also known as USB 3.1 Gen 1 or SuperSpeed 5.
 | <img src="USB/usb31.jpg" width="200"><br><img src="USB/usb31teal.jpg" width="200"> |  | USB 3.1 Type-A | 14×6.5mm<br>9 pins | 2013 | PCs. | | Usually red, teal or blue. 10 Gb/s.<br>Also known as USB 3.1 Gen 2, USB 3.2 Gen 2x1 or SuperSpeed 10.
