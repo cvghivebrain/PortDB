@@ -14,3 +14,5 @@
 | <img src="Video/xga.jpg" width="400"> |  | Extended Graphics Array (XGA) | 16.3×7.9mm<br>15 pins | 1990 | PC (with graphics card). | Monitor. | Uses DE-15 connector.
 | <img src="Video/evga.jpg" width="400"> |  | Extended Video Graphics Array (EVGA) | 16.3×7.9mm<br>15 pins | 1991 | PC (with graphics card). | Monitor. | Uses DE-15 connector.
 | <img src="Video/minivga.jpg" width="400"> | <img src="Video/minivga_c.jpg" width="400"> | Mini-VGA | ?mm<br>14 pins | 2002 | Apple iBooks, eMacs, some PowerBooks and iMacs; some Sony and HP laptops. | | 
+| <img src="Video/dp.jpg" width="400"> | <img src="Video/dp_c.jpg" width="400"> | DisplayPort | 18.8×7.6mm<br>20 pins | 2008 | PC (with graphics card), laptops. | Monitor. | 
+| <img src="Video/minidp.jpg" width="400"> | <img src="Video/minidp_c.jpg" width="400"> | DisplayPort | 7.4×4.5mm<br>20 pins | 2008 | Laptops. | Monitor. | 
