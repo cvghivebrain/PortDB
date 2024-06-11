@@ -16,3 +16,6 @@
 | <img src="Video/minivga.jpg" width="400"> | <img src="Video/minivga_c.jpg" width="400"> | Mini-VGA | ?mm<br>14 pins | 2002 | Apple iBooks, eMacs, some PowerBooks and iMacs; some Sony and HP laptops. | | 
 | <img src="Video/dp.jpg" width="400"> | <img src="Video/dp_c.jpg" width="400"> | DisplayPort | 16.1×4.8mm<br>20 pins | 2008 | PC (with graphics card), laptops. | Monitor. | 
 | <img src="Video/minidp.jpg" width="400"> | <img src="Video/minidp_c.jpg" width="400"> | Mini DisplayPort | 7.4×4.5mm<br>20 pins | 2008 | Laptops. | Monitor. | 
+| <img src="Video/hdmi.jpg" width="400"> | <img src="Video/hdmi_c.jpg" width="400"> | High-Definition Multimedia Interface (HDMI) Type A | 13.9×4.5mm<br>19 pins | 2002 | Blu-ray players, HD DVD players, Xbox 360/One/Series, PlayStation 3/4/5, Wii U, Nintendo Switch, PCs, laptops. | Television, monitor. | 
+| <img src="Video/minihdmi.jpg" width="400"> | <img src="Video/minihdmi_c.jpg" width="400"> |  Mini HDMI Type C | 10.4×2.4mm<br>19 pins | 2002 | Laptops, cameras. | Monitor. | 
+| <img src="Video/microhdmi.jpg" width="400"> | <img src="Video/microhdmi_c.jpg" width="400"> |  Micro HDMI Type D | 5.8×2.2mm<br>19 pins | 2002 | Laptops, cameras. | Monitor. | 
